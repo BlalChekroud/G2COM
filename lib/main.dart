@@ -54,7 +54,7 @@ class Login extends StatelessWidget {
         ),
         drawer: const Drawer(
           child: Center(
-            child: Text('Mes listes')
+            child: Text('Listes')
             ),
         ),
         body:  ListView(
